@@ -10,10 +10,6 @@
 </div>
 
 
-
-
-
-
 <div align="center">  <!--REDES SOCIAIS-->
 <a href="https://www.behance.net/miguelernesto3d" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&logo=behancel&logoColor=white"></a>
 <a href="mailto:ernestomiguel064@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
