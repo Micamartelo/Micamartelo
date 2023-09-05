@@ -28,4 +28,4 @@
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6520a&height=120&section=footer"/> <!--FOOTER-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161b22a&height=120&section=footer"/> <!--FOOTER-->
