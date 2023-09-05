@@ -5,11 +5,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=micametelo&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
-<div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Micaela Martelo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamertelo&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=22272e" />
-</div>
-
 
 <div align="center">  <!--REDES SOCIAIS-->
 <a href="https://instagram.com/henilveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
