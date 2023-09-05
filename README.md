@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=28&pause=1000&color=FFC501&width=435&lines=%F0%9F%8E%89+Welcome+to+my+profile+%F0%9F%8E%89)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)]
 
 <div align="center">  <!--GIT STATUS-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=FFC501&icon_color=345995&text_color=FFC501&bg_color=22272e" alt="Henrique ataide github stats" /> 
