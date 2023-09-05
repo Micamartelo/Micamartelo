@@ -5,13 +5,14 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micamartelo&theme=transparent&show_icons=true)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=micamartelo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <div align="center">  <!--REDES SOCIAIS-->
 <a href="https://www.behance.net/miguelernesto3d" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&logo=behancel&logoColor=white"></a>
-<a href="mailto:henriqueataide.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/henrique-ataide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="mailto:ernestomiguel064@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguel-ernesto-447620257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Habilidades principais:
