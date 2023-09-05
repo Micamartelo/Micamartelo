@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imrickss&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Henrique ataide github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrickss&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=22272e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo9&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Micaela github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamartelo&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=22272e" />
 </div>
 
 
@@ -26,6 +26,6 @@
 
 
 ### Estudando no momento:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161b22a&height=120&section=footer"/> <!--FOOTER-->
