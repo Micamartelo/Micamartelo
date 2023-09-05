@@ -2,6 +2,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)]
 
+
 <div align="center">  <!--GIT STATUS-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=FFC501&icon_color=345995&text_color=FFC501&bg_color=22272e" alt="Henrique ataide github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamartelo&layout=compact&hide_border=true&title_color=FFC501&text_color=FFC501&bg_color=22272e" />
