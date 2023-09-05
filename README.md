@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/miguel-ernesto-447620257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Habilidades principais:
+ ### Core Skills:
 ![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=161b22)&nbsp;
 ![Html](https://img.shields.io/badge/-HTML-161b22?style=for-the-badge&logo=html&labelColor=161b22)&nbsp;
@@ -24,7 +24,7 @@
 
 
 
-### Estudando no momento:
+### Currently studying:
 ![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 [![GameMaker Studio 2](https://img.shields.io/badge/GameMaker_Studio_2-000000.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker)
 
