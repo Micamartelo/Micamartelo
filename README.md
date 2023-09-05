@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6520a&height=120&section=header"/> <!--HEADER-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6520a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mica.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Design+atualmente+estou+estudando+Python.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=345995&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mica.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Design+atualmente+estou+estudando+Python.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=22272e&color=d6520a&line=d6520a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=345995e&color=345995a&line=345995a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Henrique ataide github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Micaela Martelo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamertelo&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=22272e" />
 </div>
 
