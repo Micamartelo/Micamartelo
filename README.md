@@ -4,14 +4,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=161b22&color=345995&line=ffdd00&point=345995&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=FFC501&icon_color=FFC501a&text_color=FFC5010a&bg_color=FFC501" alt="Micaela github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamartelo&layout=compact&hide_border=true&title_color=FFC501&text_color=FFC501&bg_color=FFC501" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micamartelo&theme=transparent&show_icons=true)
+
 
 
 <div align="center">  <!--REDES SOCIAIS-->
-<a href="https://www.behance.net/miguelernesto3d" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png"</a>
+<a href="https://www.behance.net/miguelernesto3d" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&logo=behancel&logoColor=white"></a>
 <a href="mailto:henriqueataide.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/henrique-ataide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
