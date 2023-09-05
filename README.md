@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=345995&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mica.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Design+atualmente+estou+estudando+Python.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelo&bg_color=345995e&color=345995a&line=345995a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micamartelos&bg_color=22272e&color=d6520a&line=FFC501&point=345995&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  <!--GIT STATUS-->
