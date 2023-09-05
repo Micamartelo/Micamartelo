@@ -18,11 +18,11 @@
  </div>
  
  ### Habilidades principais:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=purple&labelColor=0D1117)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-345995?style=for-the-badge&logo=python&labelColor=345995)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-345995?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=345995)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-345995?style=for-the-badge&logo=html&labelColor=345995)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-345995?style=for-the-badge&logo=figma&logoColor=purple&labelColor=345995)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-345995?style=for-the-badge&logo=blender&logoColor=purple&labelColor=345995)&nbsp;
 
 
 
