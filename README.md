@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/henrique-ataide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif Habilidades principais:
+ ### Habilidades principais:
 ![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=161b22)&nbsp;
 ![Html](https://img.shields.io/badge/-HTML-161b22?style=for-the-badge&logo=html&labelColor=161b22)&nbsp;
@@ -25,7 +25,7 @@
 
 
 
-### https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif Estudando no momento:
+### Estudando no momento:
 ![Python](https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161b22a&height=120&section=footer"/> <!--FOOTER-->
