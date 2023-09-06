@@ -4,7 +4,7 @@
 
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=FFC501&icon_color=345995&text_color=FFC501&bg_color=22272e" alt="Henrique ataide github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micamartelo&show_icons=true&count_private=true&hide_border=true&title_color=FFC501&icon_color=345995&text_color=FFC501&bg_color=22272e" alt="Micaela Ernesto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micamartelo&layout=compact&hide_border=true&title_color=FFC501&text_color=FFC501&bg_color=22272e" />
 </div>
 
